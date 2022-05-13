@@ -3,9 +3,9 @@ layout: page
 title: Acerca de
 ---
 
-El **Open Data Day León 2021**, es una iniciativa de la Dirección General de Innovación del Municipio de León, a través de **[Lab León](https://www.facebook.com/lab.leon.DGI/)**, para celebrar el día mundial de datos abiertos aprendiendo, colaborando y creando con datos. Es la oportunidad perfecta para formar parte de la comunidad activa que contribuye al cambio a través de los datos abiertos. Esta celebración se llevará a cabo el día **sábado 6 de marzo de 2021** a nivel mundial, siendo que León, Guanajuato, será un municipio sede del evento.
+El **Open Data Day de Codeando México**, es la celebración por el día mundial de datos abiertos aprendiendo, colaborando y creando con datos. Es la oportunidad perfecta para formar parte de la comunidad activa que contribuye al cambio a través de los datos abiertos en México. Esta celebración se llevará a cabo en **junio de 2022**, siendo que Guadalajara, Jalisco, una de las sedes del evento que se lleva a cabo a nivel mundial.
 
-El registro estará abierto hasta el **5 de marzo de 2021**, puedes asistir libremente a las charlas que tendremos o puedes inscribirte a los diferentes talleres que se realizarán. Una vez registrado(a), se te hará llegar un correo para inscribirte a los talleres.
+El registro, fecha y lugar exacto se darán a conocer más adelante, podrás asistir libremente a las charlas y talleres que se realizarán de manera presencial.
 
 #### ¿Qué es el día de datos abiertos?
 
@@ -13,18 +13,15 @@ El registro estará abierto hasta el **5 de marzo de 2021**, puedes asistir libr
 
 Todos los resultados que se generen ese día estarán abiertos para que todos las puedan usar y reutilizar.
 
-#### Día Mundial de Datos Abiertos 2021
+#### Día Mundial de Datos Abiertos 2022
 
 Esta edición se centra en en uso de **datos ambientales**, donde podrás aprender sobre la calidad del aire, arbolado urbano y gestión del agua de la ciudad, utilizando datos para hacer análisis, visualizaciones, mapas y más. Sin importar el conjunto de habilidades técnicas que poseeas, este es un espacio abierto para aprender y ayudar con datos abiertos globales y locales al crecimiento de una comunidad incluyente y sostenible.
-
-#### ¿Habrá premios?
-¡Así es! este año gracias a la aportación de la Open Knowledge Foundation estaremos regalando **tarjetas de regalo de Amazon** de hasta $500 pesos. Esto sucederá a lo largo del evento a través de distintas dinámicas que se anunciarán ese mismo día.
-
 
 #### ¿Para quién es? ¡Todo el mundo!
 Si tienes una idea para usar datos abiertos, quieres encontrar un proyecto interesante para contribuir, aprender sobre cómo visualizar o analizar datos o simplemente quieres ver lo que está sucediendo, ¡entonces ven a participar! La participación es un valor central de *Open Data Day*, todos son libres de expresar sus opiniones de manera constructiva. Sin importar su conjunto de habilidades o intereses, estamos alentando a fomentar oportunidades para que usted aprenda y ayude a crecer a la comunidad global de datos abiertos.
 
-- El público en general
+- Público en general
+- Activistas
 - Servidoros Públicos
 - Diseñadores
 - Desarrolladores
